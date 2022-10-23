@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'walker123WebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CFEF654B0BB4763A0C5D616606D3F9E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCD9F7704F984244A446A8E60F4E7789 }}
           package: .
